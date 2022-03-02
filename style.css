@@ -1,0 +1,75 @@
+.navbar1 {
+    padding: 0px 250px 0px;
+}
+
+.e {
+    color: rgb(56, 226, 50);
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.judul{
+    font-size: 40px;
+    color: rgb(156, 155, 155);
+}
+
+.deskripsi {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.img {
+    height: 38px;
+    width: 38px;
+
+}
+
+.cloud {
+    font-size: 12px;
+}
+
+.isicloud {
+    font-size: 12px;
+}
+
+.planet {
+    font-size: 12px;
+}
+
+.isiplanet {
+    font-size: 12px;
+}
+.asteroid {
+    font-size: 12px;
+}
+
+.isiasteroid {
+    font-size: 12px;
+}
+
+.img2 {
+    height: 80vh;
+    
+}
+
+.brand {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.text {
+    padding-top: 40px;
+    color: rgb(156, 155, 155);
+    font-size: 30px;
+}
+
+.deskripsi2 {
+    font-size: 14px;
+}
+
+.list-unstyled {
+    font-size: 14px;
+}
